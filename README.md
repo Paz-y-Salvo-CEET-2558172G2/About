@@ -3,6 +3,7 @@ Paz y Salvo CEET
 
 el centro de electricidad electronica y telecomunicaciones actualmente no cuenta con un sistema de informacion para manejar los paz y salvo de sus contratistas, por ello se ha decidido crear un proyecto que solucione la problematica.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Programadores
 
 RICHYAREVALO
@@ -13,7 +14,7 @@ maycol33
 
 
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tecnologias a utilizar
 Backend
 Por definir
